@@ -2,7 +2,7 @@
 OJ problems from Leetcode
 
 ## Some important problems:
-> 148. Linked List/Sort List (using quick sort)
+> 148. Linked List/Sort List (using quick sort)  
 > Maximum Subarray  
 > Eval Expression  
 > Longest Path in DAG  
